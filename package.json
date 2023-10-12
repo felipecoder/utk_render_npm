@@ -1,6 +1,6 @@
 {
-  "name": "utk-render-npm",
-  "version": "1.0.0",
+  "name": "utk-render",
+  "version": "1.0.1",
   "description": "FiveM Realtime GameView for HTML",
   "main": "src/index.js",
   "scripts": {

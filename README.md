@@ -11,6 +11,7 @@ npm  i utk-render
 
 ```js
 import { GameRender } from 'utk-render'
+const gamerender = new GameRender()
 ```
 
 ## Handling Screenshot Uploads
